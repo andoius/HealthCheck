@@ -1,0 +1,43 @@
+CREATE TABLE #tmpSizeChar (
+     table_name sysname ,
+     row_count int,
+     reserved_size varchar(50),
+     data_size varchar(50),
+     index_size varchar(50),
+     unused_size varchar(50))                              
+
+CREATE TABLE #tmpSizeInt (
+     table_name sysname ,
+     row_count int,
+     reserved_size_KB int,
+     data_size_KB int,
+     index_size_KB int,
+     unused_size_KB int)   
+
+SET NOCOUNT ON
+INSERT      #tmpSizeChar
+EXEC      sp_msforeachtable 'sp_spaceused ''?'''     
+
+INSERT INTO #tmpSizeInt (
+        table_name,
+        row_count,
+        reserved_size_KB,
+        data_size_KB,
+        index_size_KB,
+        unused_size_KB
+        )
+SELECT    [table_name],
+        row_count,
+        CAST(SUBSTRING(reserved_size, 0, PATINDEX('% %', reserved_size)) AS int)reserved_size,
+        CAST(SUBSTRING(data_size, 0, PATINDEX('% %', data_size)) AS int)data_size,
+        CAST(SUBSTRING(index_size, 0, PATINDEX('% %', index_size)) AS int)index_size,
+        CAST(SUBSTRING(unused_size, 0, PATINDEX('% %', unused_size)) AS int)unused_size
+FROM #tmpSizeChar   
+
+/*
+DROP TABLE #tmpSizeChar
+DROP TABLE #tmpSizeInt
+*/
+
+SELECT * FROM #tmpSizeInt
+ORDER BY reserved_size_KB DESC

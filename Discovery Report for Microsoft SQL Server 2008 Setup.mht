@@ -1,0 +1,176 @@
+From: "Saved by Windows Internet Explorer 7"
+Subject: Discovery Report for Microsoft SQL Server 2008 Setup
+Date: Wed, 12 Dec 2012 09:54:51 -0000
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Program Files\Microsoft SQL Server\100\Setup Bootstrap\Log\20121212_095348\SqlDiscoveryReport.htm
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18005
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Discovery Report for Microsoft SQL Server 2008 =
+Setup</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META content=3D"MSHTML 6.00.6002.18005" name=3DGENERATOR></HEAD>
+<BODY>
+<P style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Verdana, Arial, =
+sans-serif"><B>Microsoft=20
+SQL Server 2008 Setup Discovery Report </B></P>
+<TABLE style=3D"FONT-SIZE: 9pt; FONT-FAMILY: Verdana, Arial, sans-serif" =
+
+cellSpacing=3D0 cellPadding=3D7 border=3D1>
+  <TBODY>
+  <TR style=3D"BACKGROUND-COLOR: silver">
+    <TH align=3Dmiddle>Product</TH>
+    <TH align=3Dmiddle>Instance</TH>
+    <TH align=3Dmiddle>Instance ID</TH>
+    <TH align=3Dmiddle>Feature</TH>
+    <TH align=3Dmiddle>Language</TH>
+    <TH align=3Dmiddle>Edition</TH>
+    <TH align=3Dmiddle>Version</TH>
+    <TH align=3Dmiddle>Clustered</TH></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Tools</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>ToolsClient</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>ToolsClient\Connectivity</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>ToolsDocument</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>ToolsDocument\BOL</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2005</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>NS</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition (64-bit)</TD>
+    <TD align=3Dmiddle>9.3.4035</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>ASDB1</TD>
+    <TD align=3Dmiddle>MSSQL10.ASDB1</TD>
+    <TD align=3Dmiddle>Database Engine Services</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>ASDB1</TD>
+    <TD align=3Dmiddle>MSSQL10.ASDB1</TD>
+    <TD align=3Dmiddle>SQL Server Replication</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>ASDB1</TD>
+    <TD align=3Dmiddle>MSSQL10.ASDB1</TD>
+    <TD align=3Dmiddle>Full-Text Search</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>ASDB1</TD>
+    <TD align=3Dmiddle>MSAS10.ASDB1</TD>
+    <TD align=3Dmiddle>Analysis Services</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Management Tools - Basic</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Management Tools - Complete</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Client Tools Connectivity</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Client Tools Backwards Compatibility</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR>
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Client Tools SDK</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR>
+  <TR style=3D"BACKGROUND-COLOR: lightyellow">
+    <TD align=3Dmiddle>Sql Server 2008</TD>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>
+    <TD align=3Dmiddle>Integration Services</TD>
+    <TD align=3Dmiddle>1033</TD>
+    <TD align=3Dmiddle>Enterprise Edition</TD>
+    <TD align=3Dmiddle>10.2.4000.0</TD>
+    <TD align=3Dmiddle>No</TD></TR></TBODY></TABLE></BODY></HTML>

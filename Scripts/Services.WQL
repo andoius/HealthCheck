@@ -1,0 +1,1 @@
+get-wmiobject -class win32_service -computername $hostname| where {$_.name -like '*SQL*'}| select-object Name,state,status,Started,Startmode,Startname,Description

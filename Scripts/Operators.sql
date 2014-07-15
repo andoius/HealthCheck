@@ -1,0 +1,1 @@
+select name, enabled, email_address from msdb.dbo.sysoperators

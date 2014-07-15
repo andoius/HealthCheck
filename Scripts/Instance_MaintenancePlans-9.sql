@@ -1,0 +1,1 @@
+select  name [Name], description [Description], suser_sname(ownersid) [Owner], createdate [CreateDate]from msdb.dbo.sysdtspackages90 where packagetype =6

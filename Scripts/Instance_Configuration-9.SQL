@@ -1,0 +1,1 @@
+exec master.dbo.sp_configure
